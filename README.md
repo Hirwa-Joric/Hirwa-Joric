@@ -1,109 +1,79 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F58AF&height=160&section=header&text=Hirwa%20Joric&fontSize=42&fontAlign=50&fontAlignY=35&fontColor=FFFFFF" alt="Header wave" />
+</p>
 
-# 👋 Hey, I'm Hirwa Joric
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=2800&pause=1200&color=7F58AF&center=true&vCenter=true&width=600&lines=Designing+thoughtful+web+experiences;Building+calm%2C+reliable+Node.js+services;Always+iterating%2C+always+sharing" alt="Animated intro" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=64FFDA&center=true&vCenter=true&width=440&lines=Full-stack+Builder;Node.js+Enthusiast;API+Architect;Problem+Solver" alt="Typing SVG" />
-
-<br>
-
-[![Profile Views](https://komarev.com/ghpvc/?username=Hirwa-Joric&color=64FFDA&style=flat-square&label=Visitors)](https://github.com/Hirwa-Joric)
-
-</div>
-
----
-
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
-
-### 🚀 What I Do
-
-Building **reliable web experiences** with clean architecture and thoughtful design.
-
-**Currently exploring:**
-- 🎯 Modular Node.js architectures
-- 🔥 Expressive API design patterns
-- ⚡ Performance optimization techniques
-- 📚 Software architecture deep-dives
-
-**Philosophy:** *Prototype fast, validate with data, iterate with purpose.*
-
-<br clear="right"/>
+<p align="center">
+  <img src="https://img.shields.io/badge/Profile%20views-7F58AF?style=flat-square&logo=github" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-Web%20apps%20%26%20APIs-FFB400?style=flat-square" alt="Focus badge" />
+  <img src="https://img.shields.io/badge/Currently-Learning%20architecture-22A699?style=flat-square" alt="Learning badge" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### &#129517; Snapshot
+
+| Build | Learn | Share |
+| :---: | :---: | :---: |
+| &#129707; Reliable Node.js + Express services | &#129504; Architecture, observability, performance | &#128466; Bite-sized docs, templates, and tutorials |
+
+### &#9889; Focus Board
+
+- &#129513; Ship modular APIs that feel effortless to use.
+- &#128736; Automate the boring parts of project setup and delivery.
+- &#127793; Grow a knowledge base others can pick up in minutes.
+
+### &#128736; Stack &amp; Tools
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-05122A?style=for-the-badge&logo=javascript" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-05122A?style=for-the-badge&logo=nodedotjs" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Express-05122A?style=for-the-badge&logo=express" alt="Express" />
+  <img src="https://img.shields.io/badge/HTML5-05122A?style=for-the-badge&logo=html5" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-05122A?style=for-the-badge&logo=css3" alt="CSS3" />
+  <img src="https://img.shields.io/badge/Git-05122A?style=for-the-badge&logo=git" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-05122A?style=for-the-badge&logo=github" alt="GitHub" />
+</p>
+
+### &#10024; Highlights
+
+- &#128236; Rapid calculator API that turns URL params into instant insights.
+- &#129707; Starter kits that keep teams focused on ideas, not boilerplate.
+- &#129517; A living playbook of architecture notes, debugging habits, and delivery checklists.
+
+### &#128200; Activity Snapshot
 
 <div align="center">
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Hirwa-Joric&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=Hirwa-Joric&theme=radical&hide_border=true" alt="GitHub streak" />
 </div>
-
----
-
-### 📊 GitHub Stats
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Hirwa-Joric&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9" />
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Hirwa-Joric&theme=react&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirwa-Joric&layout=compact&theme=radical&hide_border=true" alt="Top languages" />
 </div>
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hirwa-Joric&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=64FFDA&text_color=C9D1D9" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Hirwa-Joric&theme=rogue&area=true&hide_border=true" alt="Activity graph" />
 </div>
 
----
+<sub align="center">Stats from <a href="https://github.com/anuraghazra/github-readme-stats">github-readme-stats</a>, <a href="https://github.com/DenverCoder1/github-readme-streak-stats">streak-stats</a>, and <a href="https://github.com/Ashutosh00710/github-readme-activity-graph">activity graph</a>.</sub>
 
-### 💼 Spotlight Projects
+### &#129309; Connect
 
-<div align="center">
+<p align="center">
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-7F58AF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://www.linkedin.com/in/your-linkedin-handle"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://twitter.com/your-twitter-handle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</p>
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| 🧮 **Calculator API** | Micro API for on-the-fly aggregates from URL parameters | Node.js, Express |
-| 🎨 **Starter Templates** | Lightweight boilerplates to ship ideas faster | JavaScript, Automation |
-| 📖 **Engineering Playbook** | Architecture notes & debugging strategies | Documentation |
+<p align="center"><sub>Swap in your real links, and add the platforms that matter to you.</sub></p>
 
-</div>
+<p align="center">
+  <strong>"Build with empathy, measure with curiosity, ship with pride."</strong><br>
+  Thanks for stopping by &mdash; see you in the commits! &#128640;
+</p>
 
----
-
-### 🎯 Current Roadmap
-
-```typescript
-const roadmap = {
-  immediate: ["Battle-tested Node.js scaffolds", "Structured logging patterns"],
-  learning: ["Software architecture patterns", "Observability & monitoring"],
-  sharing: ["Build logs", "Technical deep-dives", "Community collaboration"],
-  goal: "Make software engineering more accessible for everyone"
-};
-```
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![Email](https://img.shields.io/badge/Email-64FFDA?style=for-the-badge&logo=gmail&logoColor=0D1117)](mailto:your-email@example.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-linkedin-handle)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/your-twitter-handle)
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 *"Build with empathy, measure with curiosity, ship with pride."*
-
-**Thanks for visiting!** Feel free to explore my repositories and reach out for collaboration 🚀
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%"/>
-
-</div>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=7F58AF&height=120&section=footer" alt="Footer wave" />
+</p>
